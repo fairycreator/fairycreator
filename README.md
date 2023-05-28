@@ -1,3 +1,4 @@
+<img width="833" alt="Знімок екрана 2023-04-28 о 18 57 29" src="https://github.com/fairycreator/fairycreator/assets/122693095/bcba7ad4-7a16-42d2-8f4c-c70a52a3561c">
 ### Hello, I'm Andrij! 👋
 Welcome to my GitHub profile! Here's a little bit about me:
 
