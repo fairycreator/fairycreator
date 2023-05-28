@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 Thank you for visiting my profile. Have a great day! 🌟
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,vscode,webflow,wordpress,ai,figma,react,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,vscode,webflow,wordpress,ai,figma,react,nodejs&perline=6)](https://skillicons.dev)
 <!--
 **fairycreator/fairycreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
