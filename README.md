@@ -1,6 +1,7 @@
 <img width="833" alt="Знімок екрана 2023-04-28 о 18 57 29" src="https://github.com/fairycreator/fairycreator/assets/122693095/bcba7ad4-7a16-42d2-8f4c-c70a52a3561c"><br>
 
 👋 Hello, I'm Andrij<br>
+
 Welcome to my GitHub profile! Here's a little bit about me:<br>
 🔭 I'm studying to become fullstack developer, designer and webmaster.<br>
 🌱 I'm passionate about learning and constantly improving my skills.<br>
