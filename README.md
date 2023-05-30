@@ -1,7 +1,7 @@
-<img width="833" alt="Знімок екрана 2023-04-28 о 18 57 29" src="https://github.com/fairycreator/fairycreator/assets/122693095/bcba7ad4-7a16-42d2-8f4c-c70a52a3561c">
-👋 Hello, I'm Andrij
-Welcome to my GitHub profile! Here's a little bit about me:
+<img width="833" alt="Знімок екрана 2023-04-28 о 18 57 29" src="https://github.com/fairycreator/fairycreator/assets/122693095/bcba7ad4-7a16-42d2-8f4c-c70a52a3561c"><br>
 
+👋 Hello, I'm Andrij<br>
+Welcome to my GitHub profile! Here's a little bit about me:<br>
 🔭 I'm studying to become fullstack developer, designer and webmaster.<br>
 🌱 I'm passionate about learning and constantly improving my skills.<br>
 👯 I enjoy collaborating with others and contributing to open-source projects.<br>
@@ -14,6 +14,7 @@ Thank you for visiting my profile. Have a great day! 🌟<br>
 .......................
 
 🤝 How to contact me:<br>
+
 📫 E-mail: chusi@mail.com<br>
 💬 My page: go to [linkedin](https://www.linkedin.com/in/andrijcsuhran/)<br>
 
