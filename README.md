@@ -1,4 +1,4 @@
-<img width="833" alt="Знімок екрана 2023-04-28 о 18 57 29" src="https://github.com/fairycreator/fairycreator/assets/122693095/bcba7ad4-7a16-42d2-8f4c-c70a52a3561c"><br>
+<img width="833" alt="Help Ukraine now" src="[https://savelife.in.ua/donate/?__cf_chl_tk=HxPVOJNuVzfXyaoDwUwAeyic58cAt6mu9ZsauXN5qAA-1687776957-0-gaNycGzNDTs](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)"><br>
 
 👋 Hello, I'm Andrij<br>
 
