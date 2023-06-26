@@ -3,7 +3,7 @@
 👋 Hello, I'm Andrij<br>
 
 Welcome to my GitHub profile! Here's a little bit about me:<br>
-🔭 I'm studying to become fullstack developer, designer and webmaster.<br>
+🔭 I'm studying to become fullstack developer.<br>
 🌱 I'm passionate about learning and constantly improving my skills.<br>
 👯 I enjoy collaborating with others and contributing to open-source projects.<br>
 💡 I'm always seeking new challenges and opportunities to expand my knowledge.<br>
