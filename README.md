@@ -1,5 +1,3 @@
-<img width="833" alt="Help Ukraine now" src="[https://savelife.in.ua/donate/?__cf_chl_tk=HxPVOJNuVzfXyaoDwUwAeyic58cAt6mu9ZsauXN5qAA-1687776957-0-gaNycGzNDTs](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)"><br>
-
 👋 Hello, I'm Andrij<br>
 
 Welcome to my GitHub profile! Here's a little bit about me:<br>
