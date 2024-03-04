@@ -22,7 +22,7 @@ Thank you for visiting my profile. Have a great day! 🌟<br>
 🧠 My stack and tools<br>
 
 Frontend<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,vscode,webflow,wordpress,react,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,typescript,vscode,webflow,wordpress,react,nodejs&perline=5)](https://skillicons.dev)
 
 Visual effects<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,figma,ps)](https://skillicons.dev)
